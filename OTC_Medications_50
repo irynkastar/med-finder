@@ -1,0 +1,52 @@
+| id | active\_substance | dosage           | country | brand\_name            | notes |
+| -- | ----------------- | ---------------- | ------- | ---------------------- | ----- |
+| 1  | Paracetamol       | 500 mg, tablet   | Poland  | Apap                   | OTC   |
+| 2  | Paracetamol       | 500 mg, tablet   | Germany | Paracetamol ratiopharm | OTC   |
+| 3  | Paracetamol       | 500 mg, tablet   | Ukraine | Panadol                | OTC   |
+| 4  | Ibuprofen         | 200 mg, tablet   | Poland  | Ibuprom                | OTC   |
+| 5  | Ibuprofen         | 200 mg, tablet   | Germany | Nurofen                | OTC   |
+| 6  | Ibuprofen         | 200 mg, tablet   | Ukraine | Ibuprofen              | OTC   |
+| 7  | Loratadine        | 10 mg, tablet    | Poland  | Claritine              | OTC   |
+| 8  | Loratadine        | 10 mg, tablet    | Germany | Lorano                 | OTC   |
+| 9  | Loratadine        | 10 mg, tablet    | Ukraine | Loratadin              | OTC   |
+| 10 | Cetirizine        | 10 mg, tablet    | Poland  | Zyrtec                 | OTC   |
+| 11 | Cetirizine        | 10 mg, tablet    | Germany | Cetirizin-ratiopharm   | OTC   |
+| 12 | Cetirizine        | 10 mg, tablet    | Ukraine | Cetrine                | OTC   |
+| 13 | Ranitidine        | 150 mg, tablet   | Poland  | Ranigast               | OTC   |
+| 14 | Ranitidine        | 150 mg, tablet   | Germany | Ranitidin-ratiopharm   | OTC   |
+| 15 | Ranitidine        | 150 mg, tablet   | Ukraine | Ranitidin              | OTC   |
+| 16 | Guaifenesin       | 200 mg, syrup    | Poland  | Robitussin             | OTC   |
+| 17 | Guaifenesin       | 200 mg, syrup    | Germany | Mucosolvan             | OTC   |
+| 18 | Guaifenesin       | 200 mg, syrup    | Ukraine | Mukaltin               | OTC   |
+| 19 | Dextromethorphan  | 15 mg/5ml, syrup | Poland  | Tussipect              | OTC   |
+| 20 | Dextromethorphan  | 15 mg/5ml, syrup | Germany | Wick Husten            | OTC   |
+| 21 | Dextromethorphan  | 15 mg/5ml, syrup | Ukraine | Bronchicum             | OTC   |
+| 22 | Pseudoephedrine   | 30 mg, tablet    | Poland  | Sudafed                | OTC   |
+| 23 | Pseudoephedrine   | 30 mg, tablet    | Germany | Grippostad             | OTC   |
+| 24 | Pseudoephedrine   | 30 mg, tablet    | Ukraine | Rhinos                 | OTC   |
+| 25 | Magnesium         | 300 mg, tablet   | Poland  | Magne B6               | OTC   |
+| 26 | Magnesium         | 300 mg, tablet   | Germany | Magnesiocard           | OTC   |
+| 27 | Magnesium         | 300 mg, tablet   | Ukraine | Magnerot               | OTC   |
+| 28 | Vitamin C         | 500 mg, tablet   | Poland  | Redoxon                | OTC   |
+| 29 | Vitamin C         | 500 mg, tablet   | Germany | Cebion                 | OTC   |
+| 30 | Vitamin C         | 500 mg, tablet   | Ukraine | Ascorutin              | OTC   |
+| 31 | Calcium           | 500 mg, tablet   | Poland  | Calperos               | OTC   |
+| 32 | Calcium           | 500 mg, tablet   | Germany | Calcid                 | OTC   |
+| 33 | Calcium           | 500 mg, tablet   | Ukraine | Calcemin               | OTC   |
+| 34 | Zinc              | 25 mg, tablet    | Poland  | Biovital Zn            | OTC   |
+| 35 | Zinc              | 25 mg, tablet    | Germany | Zink Tabletten         | OTC   |
+| 36 | Zinc              | 25 mg, tablet    | Ukraine | Zincovit               | OTC   |
+| 37 | Loperamide        | 2 mg, capsule    | Poland  | Imodium                | OTC   |
+| 38 | Loperamide        | 2 mg, capsule    | Germany | Lopedium               | OTC   |
+| 39 | Loperamide        | 2 mg, capsule    | Ukraine | Loperamid              | OTC   |
+| 40 | Omeprazole        | 20 mg, capsule   | Poland  | Polprazol              | OTC   |
+| 41 | Omeprazole        | 20 mg, capsule   | Germany | Antra                  | OTC   |
+| 42 | Omeprazole        | 20 mg, capsule   | Ukraine | Omeprozol              | OTC   |
+| 43 | Salbutamol        | 100 mcg, inhaler | Poland  | Ventolin               | OTC   |
+| 44 | Salbutamol        | 100 mcg, inhaler | Germany | Ventolin               | OTC   |
+| 45 | Salbutamol        | 100 mcg, inhaler | Ukraine | Ventolin               | OTC   |
+| 46 | Aloe Vera         | 100 ml, gel      | Poland  | Aloevera               | OTC   |
+| 47 | Aloe Vera         | 100 ml, gel      | Germany | Aloe Vera Gel          | OTC   |
+| 48 | Aloe Vera         | 100 ml, gel      | Ukraine | Aloe Vera Gel          | OTC   |
+| 49 | Menthol           | 5%, balm         | Poland  | Mentholatum            | OTC   |
+| 50 | Menthol           | 5%, balm         | Germany | Menthol Balm           | OTC   |
